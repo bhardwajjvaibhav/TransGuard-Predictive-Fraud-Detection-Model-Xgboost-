@@ -2,6 +2,8 @@
 Fraudulent Transaction Predicting Model
 1. Data cleaning including missing values, outliers and multi-collinearity.
 2. Describe your fraud detection model in elaboration.
+
+
 Flow of the Model:
 1.	Loading the Dataset
 2.	Data Cleaning
