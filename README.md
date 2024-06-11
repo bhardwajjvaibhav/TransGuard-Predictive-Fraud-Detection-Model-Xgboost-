@@ -1,4 +1,4 @@
-# TransGuard-Predictive-Fraud-Detection (Xgboost)
+# TransGuard_Predictive-Fraud-Detection (Xgboost)
 Fraudulent Transaction Predicting Model
 1. Data cleaning including missing values, outliers and multi-collinearity.
 2. Describe your fraud detection model in elaboration.
